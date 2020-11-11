@@ -17,6 +17,7 @@ If you find any issues with the currently present implementations, feel to corre
 The different functionalities of my app are as follows:
 
 ⚡️ The app has a home screen which take birth date as an input from calender.
+
 ⚡️ After submiting the date it converts into hrs, min, seconds.
 
 ## Learnings from above Project :
